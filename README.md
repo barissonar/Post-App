@@ -7,5 +7,17 @@
   <li>✔️ JavaScript</li>
 </ul>
 
+<div align="center">
+<h2>Images</h2>  
+<img src="images/1.JPG"/>
+<br/><br/><br/><br/>
+<img src="images/2.JPG"/>
+<br/><br/><br/><br/>  
+<img src="images/3.JPG"/>
+<br/><br/><br/><br/>  
+<img src="images/4.JPG"/>
+<br/><br/><br/><br/>  
+</div>
+
 
 
